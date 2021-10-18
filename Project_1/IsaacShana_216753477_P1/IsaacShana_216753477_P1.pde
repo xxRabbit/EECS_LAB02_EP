@@ -2,7 +2,8 @@
  EECS 1710 Lab02
  Author: Shana Isaac
  Student Number: 216753477
- Project 1: Virtual Creature
+ Project 1: Virtual Creature Cell-Like : Large creature randomly changes color, changings its size as it touches a different wall. 
+ The small cell-like creatures die and regenerate randomly, and copies the color of the Larger cell.
  **/
 float creature_x = 300;
 float creature_y = 50;
