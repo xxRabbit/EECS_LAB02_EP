@@ -1,0 +1,7 @@
+This game was meant for the player 
+to collect as many rectangles in 60 seconds.
+
+The Score counts by 10's as the player clicks on each square.
+
+I However, I could not figure out how make the timer reset the game so that the
+rectangles stop counting. 
